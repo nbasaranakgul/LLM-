@@ -61,7 +61,12 @@ belge-asistani/
 ├── README.md
 └── .gitignore
 ```
-
+belge-asistani/
+├── app.py
+├── requirements.txt
+├── .env
+├── README.md
+└── .gitignore
 ---
 
 ## 🧪 Test İpuçları
