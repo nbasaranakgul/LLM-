@@ -31,9 +31,7 @@ Kullanıcıların **PDF** yükleyip belge hakkında **soru sorabildiği** bir St
 3. **Sanal ortam oluşturun ve etkinleştirin**
    ```bash
    python -m venv .venv
-   # Windows
-   .venv\Scripts\activate
-   # macOS/Linux
+   
    source .venv/bin/activate
    ```
 
